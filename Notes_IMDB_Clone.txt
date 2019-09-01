@@ -1,0 +1,30 @@
+IMDB Clone Notes
+================
+
+==========================
+IMDB_Clone_Project_Part_01
+==========================
+Set up of CRUD operations
+
+Next Step creating DB connection
+
+==========================
+IMDB_Clone_Project_Part_02
+==========================
+DB connection done
+
+Next Step Populating DB with dummy data
+and Search Functionality
+
+activate IMDB_Env
+
+==========================
+IMDB_Clone_Project_Part_03
+==========================
+DB dummy dta papulated
+Search functionality done
+
+Next add authentication and deployment
+
+pip install flask-migrate --upgrade
+
